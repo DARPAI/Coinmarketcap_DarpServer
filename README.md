@@ -1,6 +1,6 @@
 # Coinmarketcap DARP Server 📊
 
-A MCP server that provides CoinMarketCap API .
+A DARP server that provides CoinMarketCap API .
 
 ### Getting Started 🚀
 This program uses uv for package management https://docs.astral.sh/uv
